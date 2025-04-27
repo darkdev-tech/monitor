@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("QUEEN~")[1];
+    const sessdata = config.SESSION_ID.split("XENOCRYPT~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -116,8 +116,8 @@ Matrix.ev.on('connection.update', (update) => {
         if (initialConnection) {
             console.log(chalk.green("Connected Successfully XΞNØCRYPT 🚀"));
             Matrix.sendMessage(Matrix.user.id, { 
-                image: { url: "https://files.catbox.moe/67ln01.jpg" }, 
-                caption: `*Hello there User! 👋🏻* 
+                image: { url: "https://i.ibb.co/vChw8N9b/IMG-20250424-WA0042.jpg" }, 
+                caption: `*Hello there XΞNØCRYPT MD User! 👋🏻* 
 
 > Simple, Straightforward, But Loaded With Features 🎊. Meet XΞNØCRYPT WhatsApp Bot.
 
