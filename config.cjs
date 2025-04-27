@@ -24,7 +24,7 @@ const config = {
   BOT_NAME: process.env.BOT_NAME || "XΞNØCRYPT-XD",
   MENU_IMAGE: process.env.MENU_IMAGE || "https://i.ibb.co/vChw8N9b/IMG-20250424-WA0042.jpg",
   DESCRIPTION: process.env.DESCRIPTION || "© 𝐑𝐄𝐆𝐀𝐑𝐃𝐒 𝐃𝐀𝐑𝐊 𝐓𝐄𝐂𝐇",
-  OWNER_NAME: process.env.OWNER_NAME || "OBED TECHX",
+  OWNER_NAME: process.env.OWNER_NAME || "XΞNØCRYPT",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "25407065646",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
