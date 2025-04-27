@@ -110,7 +110,7 @@ const menu = async (m, Matrix) => {
           return fs.readFileSync('./media/khan.jpg');
         }
       } else {
-        return fs.readFileSync('./media/khan.jpg');
+        return fs.readFileSync('./media/xeno.jpg');
       }
     };
 
@@ -135,7 +135,7 @@ const menu = async (m, Matrix) => {
 
     // Send audio after sending the menu
     await Matrix.sendMessage(m.from, {
-      audio: { url: 'https://files.catbox.moe/rvfjap.mp3' },
+      audio: { url: 'https://files.catbox.moe/0zs302.mp3' },
       mimetype: 'audio/mp4',
       ptt: true
     }, { quoted: m });
