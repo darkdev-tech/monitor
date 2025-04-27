@@ -8,27 +8,6 @@
 </p>
 
 
-<!-- Stylish Contact Developer Button -->
-<a href="https://wa.me/254107065646" target="_blank">
-  <button style="
-    background: linear-gradient(135deg, #25D366, #128C7E); 
-    color: white; 
-    padding: 12px 24px; 
-    border-radius: 30px; 
-    font-size: 18px; 
-    border: none; 
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
-    cursor: pointer; 
-    transition: all 0.3s ease;
-  ">
-    🚀 Contact Developer
-  </button>
-</a>
+# Contact Developer
 
-<!-- Hover effect -->
-<style>
-  button:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
-  }
-</style>
+[![Contact Developer](https://img.shields.io/badge/Contact_Developer-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254107065646)
