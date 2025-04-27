@@ -219,11 +219,11 @@ const menu = async (m, Matrix) => {
         menuImage = Buffer.from(response.data, 'binary');
       } catch (error) {
         console.error('Error fetching menu image from URL, falling back to local image:', error);
-        menuImage = fs.readFileSync('./media/khan.jpg');
+        menuImage = fs.readFileSync('./media/xeno.jpg');
       }
     } else {
       // Use local image if MENU_IMAGE is not configured
-      menuImage = fs.readFileSync('./media/khan.jpg');
+      menuImage = fs.readFileSync('./media/xeno.jpg');
     }
 
     await Matrix.sendMessage(m.from, {
@@ -245,7 +245,7 @@ const menu = async (m, Matrix) => {
 
     // Send audio after sending the menu
     await Matrix.sendMessage(m.from, {
-      audio: { url: 'https://files.catbox.moe/rvfjap.mp3' },
+      audio: { url: 'https://files.catbox.moe/0zs302.mp3' },
       mimetype: 'audio/mp4',
       ptt: true
     }, { quoted: m });
