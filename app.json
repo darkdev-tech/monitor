@@ -1,9 +1,9 @@
 {
   "name": "XΞNØCRYPT",
-  "description": "🚀 OBED TECHX WhatsApp MultiDevice Bot – Your ultimate AI-powered assistant, built in Node.js to revolutionize WhatsApp automation! From smart replies to advanced moderation, experience seamless interaction like never before. 💡✨",
-  "logo": "https://files.catbox.moe/67ln01.jpg",
+  "description": "🚀 XΞNØCRYPT WhatsApp MultiDevice Bot – Your ultimate AI-powered assistant, built in Node.js to revolutionize WhatsApp automation! From smart replies to advanced moderation, experience seamless interaction like never before. 💡✨",
+  "logo": "https://files.catbox.moe/0f1rm6.jpg",
   "keywords": ["XENOCRYPT", "whatsapp-bot", "whatsapp-md-bot"],
-  "repository": "https://github.com/Trippleo1802/OBED-TECHX1",
+  "repository": "https://github.com/darkdev-tech/monitor",
   "stack": "container",
   "env": { 
   
