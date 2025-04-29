@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/stars/darkdev-tech/mentor?style=for-the-badge" />
 </p>
 
-> **XENØCRYPT XD BOT** is a powerful and stylish WhatsApp bot packed with cutting-edge features, built using **Baileys MD**. Designed by `UCEY TECH`, this bot offers group management, media tools, auto status features, and much more.
+> **XENØCRYPT XD BOT** is a powerful and stylish WhatsApp bot packed with cutting-edge features, built using **Baileys MD**. Designed by `XENOCRYPT TECH`, this bot offers group management, media tools, auto status features, and much more.
 
 ---
 
