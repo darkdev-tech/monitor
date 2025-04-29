@@ -36,15 +36,14 @@
 </p>
 
 
-# Contact Developer
-
-[![Contact Developer](https://img.shields.io/badge/Contact_Developer-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254107065646)
-
-
-
 ## 🧰 Installation
 
 git clone https://github.com/darkdev-tech/mentor
 cd mentor
 npm install
 node .
+
+
+# Contact Developer
+
+[![Contact Developer](https://img.shields.io/badge/Contact_Developer-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254107065646)
