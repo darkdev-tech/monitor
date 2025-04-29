@@ -1,8 +1,8 @@
 <h1 align="center">🤖 XENØCRYPT XD BOT</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/XENØCRYPT-BOT-6e00ff?style=for-the-badge&logo=whatsapp" />
-  <img src="https://img.shields.io/github/license/yourusername/xenocrypt-xd-bot?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/yourusername/xenocrypt-xd-bot?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/darkdev-tech/monitor?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/darkdev-tech/mentor?style=for-the-badge" />
 </p>
 
 > **XENØCRYPT XD BOT** is a powerful and stylish WhatsApp bot packed with cutting-edge features, built using **Baileys MD**. Designed by `UCEY TECH`, this bot offers group management, media tools, auto status features, and much more.
@@ -21,25 +21,6 @@
 - ♻️ **Cooldowns, XP, Levels, Leaderboard** *(optional)*
 
 ---
-
-## 🚀 Deploy on Heroku
-
-Click below to deploy:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/xenocrypt-xd-bot)
-
----
-
-## 🧰 Installation
-
-```bash
-git clone https://github.com/yourusername/xenocrypt-xd-bot
-cd xenocrypt-xd-bot
-npm install
-node .
-
-
-# monitor
 # Fork this Project🚀
 
 [![Fork this Project](https://img.shields.io/badge/Fork-Purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darkdev-tech/monitor/fork)
@@ -58,3 +39,12 @@ node .
 # Contact Developer
 
 [![Contact Developer](https://img.shields.io/badge/Contact_Developer-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254107065646)
+
+
+
+## 🧰 Installation
+
+git clone https://github.com/darkdev-tech/mentor
+cd mentor
+npm install
+node .
