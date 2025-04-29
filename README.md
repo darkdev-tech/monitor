@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6E00FF&center=true&vCenter=true&width=435&lines=Welcome+to+XENØCRYPT+XD+BOT!;Created+by+XENOCRYPT+Tech;Group+Control+%7C+Media+Tools+%7C+AI+%7C+More" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=5000&pause=1000&color=6E00FF&center=true&vCenter=true&width=600&lines=Welcome+to+XENØCRYPT+XD+BOT!;Created+by+XENOCRYPT+Tech;Group+Control+%7C+Media+Tools+%7C+AI+%7C+More;Stylish+and+Advanced+Bot+for+WhatsApp" alt="Typing SVG">
 </p>
 ---
 <p align="center">
