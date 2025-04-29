@@ -12,10 +12,17 @@
   <br>
   <b><i>XENØCRYPT XD BOT</i></b>
 </p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <style>
+    .main-text { font-family: 'Arial', sans-serif; font-size: 32px; font-weight: bold; fill: #00FF88; }
+    .sub-text { font-family: 'Arial', sans-serif; font-size: 20px; font-weight: normal; fill: #00FFFF; }
+  </style>
+  <text x="20" y="40" class="main-text">XENOCRYPT XD BOT</text>
+  <text x="20" y="70" class="sub-text">Created by XENOCRYPT TECH</text>
+  <circle cx="380" cy="50" r="30" fill="none" stroke="#00FF88" stroke-width="5"/>
+  <line x1="370" y1="30" x2="370" y2="70" stroke="#00FFFF" stroke-width="2"/>
+</svg>
 
-<p align="center">
-  <SVG src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=5000&pause=1000&color=6E00FF&center=true&vCenter=true&width=600&lines=Welcome+to+XENØCRYPT+XD+BOT!;Created+by+XENOCRYPT+Tech;Group+Control+%7C+Media+Tools+%7C+AI+%7C+More;Stylish+and+Advanced+Bot+for+WhatsApp" alt="Typing SVG">
-</p>
 ---
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VaesBAXJJhzefVszDu3h">
