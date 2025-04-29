@@ -7,9 +7,7 @@
 
 > **XENØCRYPT XD BOT** is a powerful and stylish WhatsApp bot packed with cutting-edge features, built using **Baileys MD**. Designed by `XENOCRYPT TECH`, this bot offers group management, media tools, auto status features, and much more.
 
-<p align="center">
-  <img src="https://i.ibb.co/7JQHrQ3n/IMG-20250424-WA0040.jpg" width="300" alt="XENØCRYPT XD BOT Logo"/>
-</p>
+![XENØCRYPT XD BOT](https://i.ibb.co/7JQHrQ3n/IMG-20250424-WA0040.jpg)
 
 ---
 <p align="center">
