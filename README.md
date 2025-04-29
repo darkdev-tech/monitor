@@ -12,16 +12,7 @@
   <br>
   <b><i>XENØCRYPT XD BOT</i></b>
 </p>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
-  <style>
-    .main-text { font-family: 'Arial', sans-serif; font-size: 32px; font-weight: bold; fill: #00FF88; }
-    .sub-text { font-family: 'Arial', sans-serif; font-size: 20px; font-weight: normal; fill: #00FFFF; }
-  </style>
-  <text x="20" y="40" class="main-text">XENOCRYPT XD BOT</text>
-  <text x="20" y="70" class="sub-text">Created by XENOCRYPT TECH</text>
-  <circle cx="380" cy="50" r="30" fill="none" stroke="#00FF88" stroke-width="5"/>
-  <line x1="370" y1="30" x2="370" y2="70" stroke="#00FFFF" stroke-width="2"/>
-</svg>
+
 
 ---
 <p align="center">
