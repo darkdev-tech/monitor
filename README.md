@@ -8,6 +8,12 @@
 > **XENØCRYPT XD BOT** is a powerful and stylish WhatsApp bot packed with cutting-edge features, built using **Baileys MD**. Designed by `XENOCRYPT TECH`, this bot offers group management, media tools, auto status features, and much more.
 
 ---
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VaesBAXJJhzefVszDu3h">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp" alt="Join WhatsApp Channel"/>
+  </a>
+</p>
+
 
 ## ✨ Features
 
