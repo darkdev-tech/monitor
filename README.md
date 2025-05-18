@@ -39,9 +39,6 @@
 [![Fork this Project](https://img.shields.io/badge/Fork-Purple?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darkdev-tech/monitor/fork)
 
 
-[![Tap for Session ID](https://img.shields.io/badge/Tap%20for%20Session%20ID-Click%20Here-blue?style=for-the-badge)](https://system-d5et.onrender.com)
-
-
 
 <h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
 <p align="left">
