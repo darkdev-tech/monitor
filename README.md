@@ -45,6 +45,13 @@
 <a href='https://dashboard.heroku.com/new?template=https://github.com/darkdev-tech/monitor.git' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
+Talkdrove Hosting
+<p align="center">
+  <a href="https://host.talkdrove.com/dashboard/select-bot/prepare-deployment?botId=53">
+    <img src="https://img.shields.io/badge/TALKDROVE HOSTING-black?style=for-the-badge&logo=ferrari&logoColor=green" width="240" height="38.45" />
+  </a>
+</p>
+
 
 ## 🧰 Installation
 
